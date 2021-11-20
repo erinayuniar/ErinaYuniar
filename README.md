@@ -1,5 +1,7 @@
 Hi, I'm Erina 👋
 
+🌱 I’m currently learning data science from dibimbing.id. I learn about data cleaning, data manipulation, data visualization, machine learning models, etc.
+
 <!--
 **erinayuniar/ErinaYuniar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
